@@ -1,1 +1,1 @@
-hello this file cantains deployment scrip 
+hello this file cantains deployment script 
